@@ -1,3 +1,6 @@
+#Regex
+[![Build status](https://ci.appveyor.com/api/projects/status/2h2eet4xa3cux47a?svg=true)](https://ci.appveyor.com/project/SubHunt/ajs-7-regex)
+
 # Домашнее задание к лекции «Регулярные выражения»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
